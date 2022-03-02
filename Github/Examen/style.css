@@ -1,0 +1,14 @@
+#Encabezado, #intro{font-family: Papyrus}
+#Encabezado{color: rgb(0, 0, 189)}
+#Encabezado{background-color: rgb(188, 188, 253)}
+#intro{color: rgb(121, 0, 0)}
+#intro{background-color: red} 
+#test{font-family: 'Courier New', Courier, monospace}
+#test{color: black}
+#test{background-color: rgb(188, 188, 253)}
+#instrucciones{color: green}
+.correcta{color: red}
+.correcta{background-color: yellow}
+.impar{background-color: rgb(179, 179, 179)}
+.par{background-color: rgb(119, 119, 119)}
+
